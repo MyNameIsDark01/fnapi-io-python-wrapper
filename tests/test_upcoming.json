@@ -1,0 +1,2226 @@
+{
+    "result": true,
+    "last_update": {
+        "date": "2021-03-04T00:40:02+00:00",
+        "uid": "97d170e1550eee4afc0af065b78cda302a97674c"
+    },
+    "items": [
+        {
+            "id": "Wrap_326_Flatline",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Heartbeat",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-02-16",
+                "version": "15.40"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": true,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.84,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/5de42e0894b75ffff98fb08e0ace7bc7/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/5de42e0894b75ffff98fb08e0ace7bc7/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/5de42e0894b75ffff98fb08e0ace7bc7/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/5de42e0894b75ffff98fb08e0ace7bc7/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Wrap.Animated",
+                "Cosmetics.UserFacingFlags.Reactive"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "CID_756_Athena_Commando_M_JonesyAgent",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Agent Jonesy",
+            "description": "Espionage suits him well.",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-06-15",
+                "version": "12.61"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.76,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/9ee563bd72b670ed393bc9dd3cbe4f3b/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/9ee563bd72b670ed393bc9dd3cbe4f3b/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/9ee563bd72b670ed393bc9dd3cbe4f3b/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.12"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Pickaxe_ID_313_ShiitakeShaolinMale",
+            "type": {
+                "id": "pickaxe",
+                "name": "Harvesting Tool",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Crescent Shroom",
+            "description": "Fit for a mushroom king.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-07-04",
+                "version": "13.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.69,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/9bfd9bacc26801f4fd617575e69ecbb9/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/9bfd9bacc26801f4fd617575e69ecbb9/featured.png",
+                "background": "https://media.fortniteapi.io/images/9bfd9bacc26801f4fd617575e69ecbb9/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/9bfd9bacc26801f4fd617575e69ecbb9/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Set.MushroomQueen",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.12"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "MushroomQueen",
+                "name": "Fungus King",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Fungus King set."
+            }
+        },
+        {
+            "id": "CID_933_Athena_Commando_F_FuturePink",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Trinity Trooper",
+            "description": "Never stand still, give as hard as you get.",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-11-18",
+                "version": "14.60"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 3.17,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/662e07d4ddd7fe165c94a867b7d14e16/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/662e07d4ddd7fe165c94a867b7d14e16/featured.png",
+                "background": "https://media.fortniteapi.io/images/662e07d4ddd7fe165c94a867b7d14e16/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/662e07d4ddd7fe165c94a867b7d14e16/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.14",
+                "Cosmetics.Set.ThinGroup",
+                "Cosmetics.UserFacingFlags.HasVariants"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "ThinGroup",
+                "name": "Diffuse Force",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Diffuse Force set."
+            }
+        },
+        {
+            "id": "Wrap_275_Soy_Q9R5Z",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Reflector",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "MarvelSeries",
+                "name": "MARVEL SERIES",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2020-08-27",
+                "version": "14.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.81,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/ef092cce01e7de873cad41afe8a6663e/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/ef092cce01e7de873cad41afe8a6663e/featured.png",
+                "background": "https://media.fortniteapi.io/images/ef092cce01e7de873cad41afe8a6663e/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/ef092cce01e7de873cad41afe8a6663e/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.14",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.NativeMultiply",
+                "Cosmetics.UserFacingFlags.Wrap.Animated"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "NativeMultiply",
+                "name": "Silver Surfer",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Silver Surfer set."
+            }
+        },
+        {
+            "id": "EID_PoutyClap",
+            "type": {
+                "id": "emote",
+                "name": "Emote",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Sad Claps",
+            "description": "Clap through the sadness. ",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-02-20",
+                "version": "12.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.62,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/9d55a6a6c4e3bbd56d0bb4c3d3256a4d/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/9d55a6a6c4e3bbd56d0bb4c3d3256a4d/featured.png",
+                "background": "https://media.fortniteapi.io/images/9d55a6a6c4e3bbd56d0bb4c3d3256a4d/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/9d55a6a6c4e3bbd56d0bb4c3d3256a4d/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.EmoteType.Dance",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.12"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "CID_610_Athena_Commando_M_ShiitakeShaolin",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Madcap",
+            "description": "The master of mushrooms enters the fight.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-07-04",
+                "version": "13.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 3.14,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/4a7f5d675a4949867abca11cbfe29206/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/4a7f5d675a4949867abca11cbfe29206/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/4a7f5d675a4949867abca11cbfe29206/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/4a7f5d675a4949867abca11cbfe29206/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.MushroomQueen",
+                "Cosmetics.Filter.Season.12"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "MushroomQueen",
+                "name": "Fungus King",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Fungus King set."
+            }
+        },
+        {
+            "id": "BID_407_ShiitakeShaolin",
+            "type": {
+                "id": "backpack",
+                "name": "BackBling",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Bello Bag",
+            "description": "Make it mushy.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-07-04",
+                "version": "13.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.55,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/c7f7a92e3ca0b6b9f6b057799fcbe142/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/c7f7a92e3ca0b6b9f6b057799fcbe142/featured.png",
+                "background": "https://media.fortniteapi.io/images/c7f7a92e3ca0b6b9f6b057799fcbe142/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/c7f7a92e3ca0b6b9f6b057799fcbe142/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.MushroomQueen",
+                "Cosmetics.Filter.Season.12"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "MushroomQueen",
+                "name": "Fungus King",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Fungus King set."
+            }
+        },
+        {
+            "id": "CID_619_Athena_Commando_F_TechLlama",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Brilliant Bomber",
+            "description": "Show your shine. ",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-11-20",
+                "version": "11.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 3.72,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/cc02bb542dd093d5c4bed2e3249f1e3f/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/cc02bb542dd093d5c4bed2e3249f1e3f/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/cc02bb542dd093d5c4bed2e3249f1e3f/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/cc02bb542dd093d5c4bed2e3249f1e3f/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.11",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.SunshineAndRainbows"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SunshineAndRainbows",
+                "name": "Sunshine And Rainbows",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Sunshine And Rainbows set."
+            }
+        },
+        {
+            "id": "Glider_ID_210_GraffitiAssassinFemale",
+            "type": {
+                "id": "glider",
+                "name": "Glider",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Stealth Stinger",
+            "description": "Lightweight jet glider with venomous flare.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-04-29",
+                "version": "12.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.45,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/75010f50c172d14ed551a2c5ddc03c3d/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/75010f50c172d14ed551a2c5ddc03c3d/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/75010f50c172d14ed551a2c5ddc03c3d/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/75010f50c172d14ed551a2c5ddc03c3d/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.LethalBite",
+                "Cosmetics.Filter.Season.13",
+                "Cosmetics.UserFacingFlags.HasVariants"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "LethalBite",
+                "name": "Toxic Sting",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Toxic Sting set."
+            }
+        },
+        {
+            "id": "Wrap_318_Immiscible",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Warp Field",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-01-13",
+                "version": "15.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.41,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/d36eeac3c8a6f3fabc30461164da4209/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/d36eeac3c8a6f3fabc30461164da4209/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/d36eeac3c8a6f3fabc30461164da4209/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/d36eeac3c8a6f3fabc30461164da4209/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Wrap.Animated"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Wrap_237_NeonPulse",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Neon Pulse",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-04-29",
+                "version": "12.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.65,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/bfc32bccf7124e2c5afda609b993b0c8/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/bfc32bccf7124e2c5afda609b993b0c8/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/bfc32bccf7124e2c5afda609b993b0c8/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/bfc32bccf7124e2c5afda609b993b0c8/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Wrap.Animated",
+                "Cosmetics.Filter.Season.12",
+                "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Wrap_320_Stars",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Starmapping",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-01-13",
+                "version": "15.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.43,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/aff0de6d38c5774a546a01e538467855/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/aff0de6d38c5774a546a01e538467855/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/aff0de6d38c5774a546a01e538467855/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/aff0de6d38c5774a546a01e538467855/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.EndAspect",
+                "Cosmetics.UserFacingFlags.Wrap.Animated"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "EndAspect",
+                "name": "Edge Factor",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Edge Factor set."
+            }
+        },
+        {
+            "id": "CID_389_Athena_Commando_F_SpaceBunny",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Gemini",
+            "description": "Prepare for interstellar hop.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-04-17",
+                "version": "8.40"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.3,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/1c08d5a-213185c-30c32be-d9baf04/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/1c08d5a-213185c-30c32be-d9baf04/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/1c08d5a-213185c-30c32be-d9baf04/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/1c08d5a-213185c-30c32be-d9baf04/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.HasUpgradeQuests",
+                "Cosmetics.Set.SpaceBunny"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SpaceBunny",
+                "name": "Space Hop",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Space Hop set."
+            }
+        },
+        {
+            "id": "Wrap_317_GroovySplash",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Far Out",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-01-13",
+                "version": "15.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.99,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/2f66448224196c4ea59eb83e882b254e/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/2f66448224196c4ea59eb83e882b254e/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/2f66448224196c4ea59eb83e882b254e/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/2f66448224196c4ea59eb83e882b254e/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Wrap.Animated",
+                "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "MusicPack_016_WorldCup",
+            "type": {
+                "id": "music",
+                "name": "Music",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Winner's Circle",
+            "description": "The sound of triumph!",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-06-08",
+                "version": "9.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.06,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/8c7fef56ffe32390f7c2df2aef294ee1/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/8c7fef56ffe32390f7c2df2aef294ee1/featured.png",
+                "background": "https://media.fortniteapi.io/images/8c7fef56ffe32390f7c2df2aef294ee1/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/8c7fef56ffe32390f7c2df2aef294ee1/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.9"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Wrap_240_PlasmaSpectrum",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Spectral Flex",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-05-20",
+                "version": "12.60"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.76,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/bb5002caf63649ccb2e94c9a7b0a66d3/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/bb5002caf63649ccb2e94c9a7b0a66d3/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/bb5002caf63649ccb2e94c9a7b0a66d3/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/bb5002caf63649ccb2e94c9a7b0a66d3/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.12",
+                "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+                "Cosmetics.UserFacingFlags.Wrap.Animated"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Pickaxe_ID_195_SpaceBunny",
+            "type": {
+                "id": "pickaxe",
+                "name": "Harvesting Tool",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Plasma Carrot",
+            "description": "So good you can almost taste it...",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-04-25",
+                "version": "8.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.13,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/9c39f48-85d7527-2378433-b2c317b/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/9c39f48-85d7527-2378433-b2c317b/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/9c39f48-85d7527-2378433-b2c317b/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/9c39f48-85d7527-2378433-b2c317b/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.SpaceBunny",
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Filter.Season.8"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SpaceBunny",
+                "name": "Space Hop",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Space Hop set."
+            }
+        },
+        {
+            "id": "BID_648_Blonde",
+            "type": {
+                "id": "backpack",
+                "name": "BackBling",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Constructor Classic",
+            "description": "Built to build.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-11-03",
+                "version": "14.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.3,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/01f7a7af3378e24efd2118068f4da91b/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/01f7a7af3378e24efd2118068f4da91b/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/01f7a7af3378e24efd2118068f4da91b/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.14",
+                "Cosmetics.Set.ForemanSquad"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "ForemanSquad",
+                "name": "Constructor Crew",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Constructor Crew set."
+            }
+        },
+        {
+            "id": "Wrap_143_RainbowStrike",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Rainbow Riot",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-09-25",
+                "version": "10.40"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.11,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/6c0114a2547721c840e28bf392ceffda/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/6c0114a2547721c840e28bf392ceffda/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/6c0114a2547721c840e28bf392ceffda/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/6c0114a2547721c840e28bf392ceffda/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.SunshineAndRainbows",
+                "Cosmetics.Filter.Season.10"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SunshineAndRainbows",
+                "name": "Sunshine And Rainbows",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Sunshine And Rainbows set."
+            }
+        },
+        {
+            "id": "Wrap_311_VanGogh",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Impasto",
+            "description": "Gallery-ready.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-12-02",
+                "version": "15.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": true,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.68,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/21ef6cb5f57915e5690410f8a7238c73/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/21ef6cb5f57915e5690410f8a7238c73/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/21ef6cb5f57915e5690410f8a7238c73/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/21ef6cb5f57915e5690410f8a7238c73/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Wrap.Animated",
+                "Cosmetics.UserFacingFlags.Reactive"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Pickaxe_ID_421_CandySummerFemale1H",
+            "type": {
+                "id": "pickaxe",
+                "name": "Harvesting Tool",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Lil' Sweeties",
+            "description": "They've got quite a pop.",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-06-30",
+                "version": "13.20"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.53,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/8795553f15e1af481a69fcef2b7d369b/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/8795553f15e1af481a69fcef2b7d369b/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/8795553f15e1af481a69fcef2b7d369b/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/8795553f15e1af481a69fcef2b7d369b/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Pickaxe.DualWield",
+                "Cosmetics.Filter.Season.13",
+                "Cosmetics.Source.ItemShop"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "BID_404_JetSkiMale",
+            "type": {
+                "id": "backpack",
+                "name": "BackBling",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Wave Fuel",
+            "description": "Gas up and go. ",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-10-29",
+                "version": "11.10"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.32,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/762cafe2efeda1533250679a287b9282/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/762cafe2efeda1533250679a287b9282/featured.png",
+                "background": "https://media.fortniteapi.io/images/762cafe2efeda1533250679a287b9282/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/762cafe2efeda1533250679a287b9282/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.WaterBike",
+                "Cosmetics.Filter.Season.11"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "WaterBike",
+                "name": "Aqua Marine",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Aqua Marine set."
+            }
+        },
+        {
+            "id": "Pickaxe_ID_461_SkullBriteCube",
+            "type": {
+                "id": "pickaxe",
+                "name": "Harvesting Tool",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Dark Splitter",
+            "description": "Battle ready and destined for darkness.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "CUBESeries",
+                "name": "DARK SERIES",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2020-08-27",
+                "version": "14.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.36,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/f4c710122d03ea58924727d1b07c5b08/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/f4c710122d03ea58924727d1b07c5b08/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/f4c710122d03ea58924727d1b07c5b08/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/f4c710122d03ea58924727d1b07c5b08/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.14",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.AwfulAspect"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "AwfulAspect",
+                "name": "Darkening",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Darkening set."
+            }
+        },
+        {
+            "id": "Wrap_330_DoodleBuddies",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Doodle Buddies",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.37,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/0b3b3eb9ac73e5f8e2a1002c6234eefd/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/0b3b3eb9ac73e5f8e2a1002c6234eefd/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/0b3b3eb9ac73e5f8e2a1002c6234eefd/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/0b3b3eb9ac73e5f8e2a1002c6234eefd/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.UserFacingFlags.Wrap.Animated"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Wrap_146_BulletBlue",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Wavebreaker",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-10-28",
+                "version": "11.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.46,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/619855a67eb127fa2e042514e4cd9122/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/619855a67eb127fa2e042514e4cd9122/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/619855a67eb127fa2e042514e4cd9122/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/619855a67eb127fa2e042514e4cd9122/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.Fisherman",
+                "Cosmetics.Filter.Season.11"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "Fisherman",
+                "name": "Open Water",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Open Water set."
+            }
+        },
+        {
+            "id": "Glider_ID_278_SpaceWarriorMale",
+            "type": {
+                "id": "glider",
+                "name": "Glider",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Meteor Skimmer",
+            "description": "Standard Ranger-issue landing module.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.53,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/b1717da18d7b61ee74d71a6ee6986955/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/b1717da18d7b61ee74d71a6ee6986955/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/b1717da18d7b61ee74d71a6ee6986955/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Set.SpacePolice",
+                "Cosmetics.UserFacingFlags.HasVariants"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SpacePolice",
+                "name": "Galactic Rangers",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Galactic Rangers set."
+            }
+        },
+        {
+            "id": "Wrap_332_StarAces",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Faro Shuffle",
+            "description": "Show your style.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.31,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/36a0f969ee4f00c4f345b5154374e5a3/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/36a0f969ee4f00c4f345b5154374e5a3/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/36a0f969ee4f00c4f345b5154374e5a3/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/36a0f969ee4f00c4f345b5154374e5a3/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.UserFacingFlags.Wrap.Animated",
+                "Cosmetics.UserFacingFlags.Reactive.WeaponFire"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "CID_607_Athena_Commando_M_JetSki",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Wake Rider",
+            "description": "Conquer the coast. ",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-10-29",
+                "version": "11.10"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 2.36,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/8f32458a22290eb6f9a78e83f6943c3d/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/8f32458a22290eb6f9a78e83f6943c3d/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/8f32458a22290eb6f9a78e83f6943c3d/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/8f32458a22290eb6f9a78e83f6943c3d/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.WaterBike",
+                "Cosmetics.Filter.Season.11"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "WaterBike",
+                "name": "Aqua Marine",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Aqua Marine set."
+            }
+        },
+        {
+            "id": "Wrap_261_TreeFrog",
+            "type": {
+                "id": "wrap",
+                "name": "Wrap",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Danger Frog",
+            "description": "Do not eat.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-08-27",
+                "version": "14.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.71,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/b506bd3bae5fb0aac5a31c81612f5f44/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/b506bd3bae5fb0aac5a31c81612f5f44/featured.png",
+                "background": "https://media.fortniteapi.io/images/b506bd3bae5fb0aac5a31c81612f5f44/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/b506bd3bae5fb0aac5a31c81612f5f44/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Wrap.Animated",
+                "Cosmetics.UserFacingFlags.Reactive.WeaponFire",
+                "Cosmetics.Filter.Season.14"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "EID_UnicycleTraversal",
+            "type": {
+                "id": "emote",
+                "name": "Emote",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Unicycle",
+            "description": "Because you've made choices.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2020-08-27",
+                "version": "14.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 3.79,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/17f491c0e5681ade621bc62bd36cfa97/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/17f491c0e5681ade621bc62bd36cfa97/featured.png",
+                "background": "https://media.fortniteapi.io/images/17f491c0e5681ade621bc62bd36cfa97/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/17f491c0e5681ade621bc62bd36cfa97/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.EmoteType.Dance",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Emote.Traversal",
+                "Cosmetics.Filter.Season.14"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "Pickaxe_ID_312_JetSkiMale1H",
+            "type": {
+                "id": "pickaxe",
+                "name": "Harvesting Tool",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Piranhas",
+            "description": "Ready for a chopping frenzy.",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2019-10-29",
+                "version": "11.10"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.34,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/e32570b165c181d6d3cd631cf49fa669/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/e32570b165c181d6d3cd631cf49fa669/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/e32570b165c181d6d3cd631cf49fa669/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/e32570b165c181d6d3cd631cf49fa669/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Pickaxe.DualWield",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Set.WaterBike",
+                "Cosmetics.Filter.Season.11"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "WaterBike",
+                "name": "Aqua Marine",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Aqua Marine set."
+            }
+        },
+        {
+            "id": "BID_604_SkullBritecube",
+            "type": {
+                "id": "backpack",
+                "name": "BackBling",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Dark Skully Satchel",
+            "description": "Equal parts disturbing and disturbing.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "CUBESeries",
+                "name": "DARK SERIES",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2020-08-27",
+                "version": "14.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.8,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/cb53e6fc3057b35bb49f56913710a32e/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/cb53e6fc3057b35bb49f56913710a32e/featured.png",
+                "background": "https://media.fortniteapi.io/images/cb53e6fc3057b35bb49f56913710a32e/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/cb53e6fc3057b35bb49f56913710a32e/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.14",
+                "Cosmetics.Set.AwfulAspect"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "AwfulAspect",
+                "name": "Darkening",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Darkening set."
+            }
+        },
+        {
+            "id": "CID_850_Athena_Commando_F_SkullBriteCube",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Dark Skully",
+            "description": "The dreaded master of stylish domination.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "CUBESeries",
+                "name": "DARK SERIES",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2020-08-27",
+                "version": "14.00"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 3.55,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/77db3afe949da6de3b11ae13b984e8d3/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/77db3afe949da6de3b11ae13b984e8d3/featured.png",
+                "background": "https://media.fortniteapi.io/images/77db3afe949da6de3b11ae13b984e8d3/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/77db3afe949da6de3b11ae13b984e8d3/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.14",
+                "Cosmetics.Set.AwfulAspect"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "AwfulAspect",
+                "name": "Darkening",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Darkening set."
+            }
+        },
+        {
+            "id": "EID_Office",
+            "type": {
+                "id": "emote",
+                "name": "Emote",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Office Chariot",
+            "description": "Go for a spin.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.73,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/7191d7b7092aa1078f307efeb46d5c59/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/7191d7b7092aa1078f307efeb46d5c59/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/7191d7b7092aa1078f307efeb46d5c59/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/7191d7b7092aa1078f307efeb46d5c59/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.EmoteType.Dance",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.Emote.Traversal",
+                "Cosmetics.Filter.Season.15"
+            ],
+            "battlepass": null,
+            "set": null
+        },
+        {
+            "id": "EID_Builders",
+            "type": {
+                "id": "emote",
+                "name": "Emote",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Lunch Break",
+            "description": "I want five of 'em.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "CreatorCollabSeries",
+                "name": "Icon Series",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.37,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/561d6f37bbca492b099bb14ce4be9509/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/561d6f37bbca492b099bb14ce4be9509/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/561d6f37bbca492b099bb14ce4be9509/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/561d6f37bbca492b099bb14ce4be9509/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.EmoteType.Dance",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Set.MentionPremium"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "MentionPremium",
+                "name": "Lazarbeam",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Lazarbeam set."
+            }
+        },
+        {
+            "id": "BID_708_GingerbreadBuilder",
+            "type": {
+                "id": "backpack",
+                "name": "BackBling",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Baby Gingy",
+            "description": "Take your son to work day.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "CreatorCollabSeries",
+                "name": "Icon Series",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.35,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/a29e8817ccda79b60bc79350ed48a8ff/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/a29e8817ccda79b60bc79350ed48a8ff/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/a29e8817ccda79b60bc79350ed48a8ff/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Set.MentionPremium"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "MentionPremium",
+                "name": "Lazarbeam",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Lazarbeam set."
+            }
+        },
+        {
+            "id": "BID_713_FNCS21",
+            "type": {
+                "id": "backpack",
+                "name": "BackBling",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Champion's Crest",
+            "description": "Show 'em your credentials.",
+            "rarity": {
+                "id": "Uncommon",
+                "name": "UNCOMMON",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.66,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/55acb872fb1eb093b0b867995f907fbf/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/55acb872fb1eb093b0b867995f907fbf/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/55acb872fb1eb093b0b867995f907fbf/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/55acb872fb1eb093b0b867995f907fbf/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Set.FNCS"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "FNCS",
+                "name": "Fortnite Champion Series",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Fortnite Champion Series set."
+            }
+        },
+        {
+            "id": "BID_709_SpaceWarrior",
+            "type": {
+                "id": "backpack",
+                "name": "BackBling",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Quantic Pulsar",
+            "description": "Capable of tracking criminals across an entire star system.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.31,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/8086dda7ef9e5fa42064a4b058593ef5/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/8086dda7ef9e5fa42064a4b058593ef5/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/8086dda7ef9e5fa42064a4b058593ef5/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Set.SpacePolice"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SpacePolice",
+                "name": "Galactic Rangers",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Galactic Rangers set."
+            }
+        },
+        {
+            "id": "CID_A_031_Athena_Commando_M_Builder",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Lazarbeam",
+            "description": "He's true blue.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "CreatorCollabSeries",
+                "name": "Icon Series",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 1.42,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/b4cd2df7206113b9247d489d5c195013/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/b4cd2df7206113b9247d489d5c195013/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/b4cd2df7206113b9247d489d5c195013/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/b4cd2df7206113b9247d489d5c195013/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Set.MentionPremium"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "MentionPremium",
+                "name": "Lazarbeam",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Lazarbeam set."
+            }
+        },
+        {
+            "id": "CID_A_032_Athena_Commando_M_SpaceWarrior",
+            "type": {
+                "id": "outfit",
+                "name": "Outfit",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Cyprus Nell",
+            "description": "The closest thing to a father Reese ever had.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.64,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/067361535ce3913b25ee5a208228e248/transparent.png",
+                "featured": "https://media.fortniteapi.io/images/067361535ce3913b25ee5a208228e248/full_featured.png",
+                "background": "https://media.fortniteapi.io/images/067361535ce3913b25ee5a208228e248/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/067361535ce3913b25ee5a208228e248/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Set.SpacePolice"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SpacePolice",
+                "name": "Galactic Rangers",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Galactic Rangers set."
+            }
+        },
+        {
+            "id": "Pickaxe_ID_559_SpaceWarriorMale",
+            "type": {
+                "id": "pickaxe",
+                "name": "Harvesting Tool",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Asteroid Trencher",
+            "description": "Repurposed deep space mining equipment.",
+            "rarity": {
+                "id": "Rare",
+                "name": "RARE",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": null,
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.3,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/f481d50282f67c1f356fc785bdfc1a7c/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/f481d50282f67c1f356fc785bdfc1a7c/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/f481d50282f67c1f356fc785bdfc1a7c/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Set.SpacePolice"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "SpacePolice",
+                "name": "Galactic Rangers",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Galactic Rangers set."
+            }
+        },
+        {
+            "id": "Pickaxe_ID_555_BuilderMale",
+            "type": {
+                "id": "pickaxe",
+                "name": "Harvesting Tool",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "name": "Ol' Mate Sledgy",
+            "description": "Use this to look like you're doing something.",
+            "rarity": {
+                "id": "Epic",
+                "name": "EPIC",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "series": {
+                "id": "CreatorCollabSeries",
+                "name": "Icon Series",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": null
+            },
+            "price": 0,
+            "added": {
+                "date": "2021-03-02",
+                "version": "15.50"
+            },
+            "built_in_emote": null,
+            "copyrighted_audio": false,
+            "upcoming": true,
+            "reactive": false,
+            "release_date": null,
+            "last_appearance": null,
+            "interest": 0.69,
+            "images": {
+                "icon": "https://media.fortniteapi.io/images/05a4b5341b15ee1186be825311d823a4/transparent.png",
+                "featured": null,
+                "background": "https://media.fortniteapi.io/images/05a4b5341b15ee1186be825311d823a4/background.v2.png",
+                "full_background": "https://media.fortniteapi.io/images/05a4b5341b15ee1186be825311d823a4/background_full.v2.en.png"
+            },
+            "video": null,
+            "gameplay_tags": [
+                "Cosmetics.UserFacingFlags.HasVariants",
+                "Cosmetics.Filter.Season.15",
+                "Cosmetics.Source.ItemShop",
+                "Cosmetics.Pickaxe.OneHanded",
+                "Cosmetics.Set.MentionPremium"
+            ],
+            "battlepass": null,
+            "set": {
+                "id": "MentionPremium",
+                "name": "Lazarbeam",
+                "intensity": null,
+                "landing_priority": null,
+                "part_of": "Part of the Lazarbeam set."
+            }
+        }
+    ]
+}

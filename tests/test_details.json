@@ -1,0 +1,56 @@
+{
+    "result": true,
+    "item": {
+        "id": "CID_242_Athena_Commando_F_Bullseye",
+        "type": {
+            "id": "outfit",
+            "name": "Outfit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        "name": "Bullseye",
+        "description": "I never miss.",
+        "rarity": {
+            "id": "Uncommon",
+            "name": "UNCOMMON",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        "series": null,
+        "price": 800,
+        "added": {
+            "date": "2018-09-27",
+            "version": "6.0"
+        },
+        "built_in_emote": null,
+        "copyrighted_audio": false,
+        "upcoming": false,
+        "reactive": false,
+        "release_date": "2018-11-07",
+        "last_appearance": null,
+        "interest": 3.12,
+        "images": {
+            "icon": "https://media.fortniteapi.io/images/3c83cd1-592e881-d91e78b-34442d8/transparent.png",
+            "featured": "https://media.fortniteapi.io/images/3c83cd1-592e881-d91e78b-34442d8/full_featured.png",
+            "background": "https://media.fortniteapi.io/images/3c83cd1-592e881-d91e78b-34442d8/background.v2.png",
+            "full_background": "https://media.fortniteapi.io/images/3c83cd1-592e881-d91e78b-34442d8/background_full.v2.en.png"
+        },
+        "video": null,
+        "gameplay_tags": [
+            "Cosmetics.Source.ItemShop",
+            "Cosmetics.Set.Bullseye",
+            "Cosmetics.Filter.Season.6",
+            "Cosmetics.UserFacingFlags.HasVariants"
+        ],
+        "battlepass": null,
+        "set": {
+            "id": "Bullseye",
+            "name": "Bullseye",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": "Part of the Bullseye set."
+        }
+    }
+}

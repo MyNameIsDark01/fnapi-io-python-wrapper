@@ -1,0 +1,3303 @@
+{
+    "result": true,
+    "lang": "en",
+    "sets": [
+        {
+            "id": "RobotRed",
+            "name": "A.I.M.",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BlackWidow",
+            "name": "Arachnid",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "EternalStruggle",
+            "name": "Eternal Struggle",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Laoch",
+            "name": "Laoch",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FortKnights",
+            "name": "Fort Knights",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Pirate",
+            "name": "Scallywags",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Cowgirl",
+            "name": "Western Wilds",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Carbide",
+            "name": "Carbide",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Shark",
+            "name": "Chomp",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Nutcracker",
+            "name": "Nutcracker",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CarbideOrangeFemale",
+            "name": "Criterion",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RoyaleHearts",
+            "name": "Royale Hearts",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpaceExplorers",
+            "name": "Space Explorers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Werewolf",
+            "name": "Full Moon",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FortniteDJ",
+            "name": "Twin Turntables",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Drift",
+            "name": "Drift",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CarbideWhite",
+            "name": "Eon",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DarkEagle",
+            "name": "Overseer",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Venus",
+            "name": "Flytrap",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RaptorArcticCamo",
+            "name": "Deep Freeze",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FrozenLegends",
+            "name": "Frozen Legends",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "IceMaiden",
+            "name": "Winter Wonderland",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BlueSamurai",
+            "name": "Bushido",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DragonNinja",
+            "name": "Brood",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Krampus",
+            "name": "Krampus",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Shiny",
+            "name": "24K",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "NeonCat",
+            "name": "Lynx",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Viking",
+            "name": "Norse",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CarbideBlackFemale",
+            "name": "Oblivion",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Omega",
+            "name": "Omega",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Volume11",
+            "name": "Volume 11",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DarkViking",
+            "name": "Harbinger",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Nevermore",
+            "name": "Nevermore",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DinoGuard",
+            "name": "Dino Guard",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RoseLeader",
+            "name": "Rose Team",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SamuraiUltra",
+            "name": "Shogun",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WWIIPilot",
+            "name": "Sky Stalker",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "IceKing",
+            "name": "Ice Kingdom",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HiredGun",
+            "name": "Hired Gun",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Asteroid",
+            "name": "The Seven",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Valiant",
+            "name": "Valiant",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpeedyRed",
+            "name": "Apex Protocol",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Warpaint",
+            "name": "Warpaint",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Bling",
+            "name": "Getaway Gang",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Wukong",
+            "name": "Wukong",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ArcticSniper",
+            "name": "Zenith",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AerosolAssassins",
+            "name": "Aerosol Assassins",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Exercise",
+            "name": "Spandex Squad",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WinterSki",
+            "name": "Winter Ski",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ModernMilitary",
+            "name": "Archetype",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Bandolier",
+            "name": "Tropic Troopers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AdvancedForces",
+            "name": "Advanced Forces",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DurrrBurger",
+            "name": "Durrr Burger",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Football",
+            "name": "Fourth Down",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SunshineAndRainbows",
+            "name": "Sunshine And Rainbows",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PastelPatrol",
+            "name": "Pastel Patrol",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetRacer",
+            "name": "RPM",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Witch",
+            "name": "Arcane Arts",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Muertos",
+            "name": "Muertos",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Nautilus",
+            "name": "Deep Sea",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ModernMilitaryRed",
+            "name": "Double Helix",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Hippie",
+            "name": "Flower Power",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Vampire",
+            "name": "Nite Coven",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BlackVector",
+            "name": "Black Vector",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FireElf",
+            "name": "Ashen Guard",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RedRiding",
+            "name": "Red Riding",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Medic",
+            "name": "Support Squadron",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StarsAndStripes",
+            "name": "Stars & Stripes",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AnimalJackets",
+            "name": "Animal Jackets",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FortniteFever",
+            "name": "Fortnite Fever",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Barbarian",
+            "name": "Primal Hunters",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Celestial",
+            "name": "Galaxy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HorsingAround",
+            "name": "Llama Rodeo",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Gingerbread",
+            "name": "Gingerbread",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GuanYu",
+            "name": "Guan Yu",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Gumshoe",
+            "name": "Hardboiled",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Hacivat",
+            "name": "Hacivat",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Scarecrow",
+            "name": "Straw Stuffed",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Hazmat",
+            "name": "Outbreak",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Octoberfest",
+            "name": "Oktoberfest",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Pumpkin",
+            "name": "Pumpkin Patch",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "KpopFashion",
+            "name": "IKONIK",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BandageNinja",
+            "name": "Falcon Clan",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Scrapyard",
+            "name": "Boneyard",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetGoth",
+            "name": "Ouroboros",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "IceCream",
+            "name": "Two Scoops",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GreenClover",
+            "name": "Green Clover",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Squishy",
+            "name": "Marshmello",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MasterKey",
+            "name": "Key Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetRacerCobra",
+            "name": "Cobra Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Moth",
+            "name": "Moth Command",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HornedMask",
+            "name": "Storm Familiars",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PizzaPit",
+            "name": "Pizza Pit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Balloon",
+            "name": "Party Parade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetRacerWhite",
+            "name": "Vanishing Point",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Banana",
+            "name": "Banana Bunch",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Plague",
+            "name": "Grim Medicine",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Snowboard",
+            "name": "Powder Patrol",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Jailbird",
+            "name": "Jailbird",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RobotTrouble",
+            "name": "Robo Rebels",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Scuba",
+            "name": "Divemasters",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StormScavenger",
+            "name": "Storm Scavenger",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TacticalSanta",
+            "name": "Sgt. Winter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StealthSyndicate",
+            "name": "Stealth Syndicate",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Medusa",
+            "name": "Snakepit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SkullTrooper",
+            "name": "Skull Squad",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SnowNinja",
+            "name": "Snow Clan",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GarageBand",
+            "name": "Garage Band",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Lifeguard",
+            "name": "Rescue Patrol",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Feathers",
+            "name": "Fowl Play",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Yeti",
+            "name": "Mountain Myths",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Deco",
+            "name": "Venture",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SweetTooth",
+            "name": "Sweet Tooth",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ColdScares",
+            "name": "Frosty Fights",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Goo",
+            "name": "Slurp Squad",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Flamingo",
+            "name": "Flamingo",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DarkBomber",
+            "name": "Lightning & Thunderstorms",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ArcticCommand",
+            "name": "Arctic Command",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Soccer",
+            "name": "Goalbound",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DieselPunk",
+            "name": "Aviation Age",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SciOps",
+            "name": "Third Eye",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Biker",
+            "name": "Biker Brigade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WavyMan",
+            "name": "Hot Air",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SolidSteel",
+            "name": "Solid Steel",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Overclocked",
+            "name": "Overclocked",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "IceStories",
+            "name": "Polar Legends",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Sup",
+            "name": "Hyper",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Luchador",
+            "name": "Lucha",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TeriyakiFish",
+            "name": "Fish Food",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SharpDresser",
+            "name": "Sharp Style",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TechOps",
+            "name": "Tech Ops",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SniperHood",
+            "name": "Ranged Recon",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetOps",
+            "name": "Counterattack",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Basketball",
+            "name": "Half Court",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Tropical",
+            "name": "Beach Battalion",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Sushi",
+            "name": "Sushi",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Math",
+            "name": "Calculator Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MadCommander",
+            "name": "Wasteland Warriors",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Aztec",
+            "name": "Sun Soldiers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SkullBrite",
+            "name": "Skull & Bows",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BlueBadass",
+            "name": "Waypoint",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "NeonGlow",
+            "name": "Neon Glow",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Farmer",
+            "name": "Fatal Fielders",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StormFusion",
+            "name": "Storm Fusion",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Bullseye",
+            "name": "Bullseye",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Taxi",
+            "name": "Racer Royale",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FieldPals",
+            "name": "Gridiron Gang",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MilitaryFashion",
+            "name": "Modern Mercenary",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DevilRock",
+            "name": "Diabolical",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Mechanimal",
+            "name": "Mechanimal",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Molten",
+            "name": "Lava Legends",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DarkShaman",
+            "name": "Moonbone",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BaseballKitbash",
+            "name": "Three Strikes",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "EvilSuit",
+            "name": "Inferno",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FurnaceFace",
+            "name": "Ruination",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Golf",
+            "name": "Teed Off",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Pilots",
+            "name": "Air Royale",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpaceBunny",
+            "name": "Space Hop",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HoppityHeist",
+            "name": "Hoppity Heist",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "EvilBunny",
+            "name": "Nitehare",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TheBomb",
+            "name": "Short Fuse",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AshtonBoardwalk",
+            "name": "Avengers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AshtonSaltLake",
+            "name": "Guardians Of The Galaxy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Interstellar",
+            "name": "Interstellar",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BrokenLight",
+            "name": "Broken Light",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Rooster",
+            "name": "Battle Dynamics",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BountyHunter",
+            "name": "Bounty Hunter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Masako",
+            "name": "Scarlet Dragon",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StormTracker",
+            "name": "Storm Stalker",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BattleSuit",
+            "name": "Suit Up",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StrawberryPilot",
+            "name": "Sky Style",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BunkerMan",
+            "name": "Bunker Days",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CyberScavenger",
+            "name": "Neochaser",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetDemon",
+            "name": "Cryptic",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AssassinSuit",
+            "name": "John Wick",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Geisha",
+            "name": "Takara",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WhiteTiger",
+            "name": "White Tiger",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Vigilante",
+            "name": "Hang Time",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Pug",
+            "name": "Grumble Gang",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpeedyMidnight",
+            "name": "Dark Apex",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StormSoldier",
+            "name": "Raging Storm",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MaskedWarrior",
+            "name": "Immortal Sands",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DemonHunter",
+            "name": "Battle Rites",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "UrbanScavenger",
+            "name": "Metro Squad",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GreenPlastic",
+            "name": "Toy Soldier",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CyberRunner",
+            "name": "Synapse",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Butterfly",
+            "name": "Chrysalis Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CyberFu",
+            "name": "Focal Point",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GlowBro",
+            "name": "Stormlight",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Sarong",
+            "name": "Red Lily",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TechMage",
+            "name": "Total Control",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Zodiac",
+            "name": "Roughneck",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Hairy",
+            "name": "Bigfoot",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WeirdObjects",
+            "name": "Stranger Things",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Anarchy",
+            "name": "Anarchy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Bani",
+            "name": "Battle Bun",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CyberKarate",
+            "name": "Kata Tech",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Birthday2019",
+            "name": "B-Day Bunch",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TeamShowdown",
+            "name": "Final Showdown",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Banner",
+            "name": "Banner Brigade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WorldCup2019",
+            "name": "World Cup 2019",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Bubblegum",
+            "name": "Bubblegum",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BoneWasp",
+            "name": "Sting",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MechPilotShark",
+            "name": "B.R.U.T.E. Squad",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ZeroPoint",
+            "name": "Zero Point",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "S4Cumulative",
+            "name": "Blockbuster",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "S5Cumulative",
+            "name": "Road Trip",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "S6Cumulative",
+            "name": "Hunting Party",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "S7Cumulative",
+            "name": "Snowfall",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "S8Cumulative",
+            "name": "Discovery",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "S9Cumulative",
+            "name": "Utopia",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetAssassin",
+            "name": "Gold Mask",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Lopex",
+            "name": "Fur Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Syko",
+            "name": "Domination",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WiseMaster",
+            "name": "Wise Warrior",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ScoreCard",
+            "name": "The Leftovers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StarWalker",
+            "name": "Star Walker",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Lasagna",
+            "name": "Lazerism",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BarbequeLarry",
+            "name": "Mayhem",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RaptorBlackOps",
+            "name": "Air Strike",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PaddedArmor",
+            "name": "Heavy Hitter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SaveTheWorld",
+            "name": "Save the World",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CautiousLoaf",
+            "name": "Hazcat",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LemonLime",
+            "name": "Citron",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SleepyTime",
+            "name": "Dreamy Days",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Punchy",
+            "name": "TKO",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Jumpstart",
+            "name": "Wild Shock",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ZoneWars",
+            "name": "Zone Wars",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ElectrodeDefect",
+            "name": "Gotham City",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AbandonedCrowd",
+            "name": "UFO",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetStripes",
+            "name": "Street Stripes",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SiegeStrike",
+            "name": "Siege Strike",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Fisherman",
+            "name": "Open Water",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Mountaineer",
+            "name": "Ascension",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Billiards",
+            "name": "Stripes and Solids",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Revival",
+            "name": "Bad Medicine",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CounterSpy",
+            "name": "Standout Style",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Nothingness",
+            "name": "Fusion",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Perimeter",
+            "name": "Wild Frontier",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GardenBones",
+            "name": "Final Reckoning",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FrighteningOddity",
+            "name": "Fearsome Freaks",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpookyOath",
+            "name": "Cryptic Curse",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ScaryBall",
+            "name": "Dead Ball",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OvernightMoon",
+            "name": "Midnight Star",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SkeletonHunter",
+            "name": "Dark Visions",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WaterBike",
+            "name": "Aqua Marine",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LongDepth",
+            "name": "Fathoms Deep",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Forest",
+            "name": "Woodsy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RoadGhosts",
+            "name": "Street Spirits",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LostConnection",
+            "name": "Missing Link",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SuddenBoundary",
+            "name": "Original Trilogy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WorldExplorers",
+            "name": "Battle Breakers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "QuietWatcher",
+            "name": "Silent Stalkers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TurningSolstice",
+            "name": "Changing Seasons",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MarrowArmy",
+            "name": "Bone Brigade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FNCS",
+            "name": "Fortnite Champion Series",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ScaryTime",
+            "name": "Nightmare Yule",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LionArmy",
+            "name": "Bear Brigade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BlastingSuns",
+            "name": "Shooting Stars",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TopPole",
+            "name": "Polar Ace",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PunchOut",
+            "name": "Sock 'em",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "NYE2020",
+            "name": "New Year's 2020",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Western Wilds",
+            "name": null,
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LatestTerminal",
+            "name": "The New Trilogy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TreeSmell",
+            "name": "Piney Fresh",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ComfyDirection",
+            "name": "Cozy Command",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WarmDealings",
+            "name": "Cold Case",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DumplingMan",
+            "name": "Bao Bros",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Steel",
+            "name": "Metal Masq",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Markers",
+            "name": "Beacons",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AlwaysFrozen",
+            "name": "Permafrost",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ClearSight",
+            "name": "Vivid Vision",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GoldScore",
+            "name": "Midas' Revenge",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OperationDiva",
+            "name": "Tactical Fashions",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RoadMouse",
+            "name": "Street Rat",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OldRestart",
+            "name": "Ancients Reborn",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TripCarrier",
+            "name": "Ninja",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WildHearts",
+            "name": "Wild Hearts",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "IncognitoAssassin",
+            "name": "Assassin X",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ColoredForest",
+            "name": "Neon Jungle",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FalseEvolution",
+            "name": "Artificial Evolved",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HiddenCollection",
+            "name": "Crypto Collective",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SearchPals",
+            "name": "Quest Friends",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SmallLight",
+            "name": "Short Fuse",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HardEntry",
+            "name": "Brute Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "JackedKitty",
+            "name": "Swole Cat",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SilverSpirit",
+            "name": "Golden Ghost",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PersonalMade",
+            "name": "Custom",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PotassiumWin",
+            "name": "Banana Royale",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PropertySector",
+            "name": "Deadpool",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpiritDarkness",
+            "name": "Ghosts & Shadows",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Capoeira2020",
+            "name": "Carnaval 2020",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FieldBooth",
+            "name": "Farm Stand",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DoubleReverb",
+            "name": "Twin Echo",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TealGroup",
+            "name": "Blue Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AppleThief",
+            "name": "Pineapple Bandit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FishClipper",
+            "name": "Bassassin",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BuddingMorale",
+            "name": "Spring Spirit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FireMarrow",
+            "name": "Burning Bone",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DrinkChamps",
+            "name": "Slurp Legends",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Speedcraft",
+            "name": "Spycraft",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FugitiveBandit",
+            "name": "Runway Raider",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GreekGroup",
+            "name": "Chimera Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LateShot",
+            "name": "Nightfire",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WinnerChain",
+            "name": "Champion Series",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GetSetGo",
+            "name": "Ready, aim, fire!",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DifferentShipment",
+            "name": "Special Delivery",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Cocoa",
+            "name": "Choco",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RepaymentUpdate",
+            "name": "Revenge Redux",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DuckBrigade",
+            "name": "Quackle Team",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LateralDestiny",
+            "name": "Parallel Future",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AbsorbDrain",
+            "name": "X-Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BonkTeam",
+            "name": "Hit Squad",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FabledStrength",
+            "name": "Mythical Might",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "NewStealth",
+            "name": "Neo Ninja",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PortraitFolk",
+            "name": "Travis Scott",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SmallCrimson",
+            "name": "Lil' Red",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Stealthy",
+            "name": "Espionage",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "UnitPoison",
+            "name": "Team Toxic",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FelineSoldier",
+            "name": "Catssassin",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AmbushOfficer",
+            "name": "Intercept Agent",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Wanted",
+            "name": "At Large",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LethalBite",
+            "name": "Toxic Sting",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FiestaDesign",
+            "name": "Party Style",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SoloShade",
+            "name": "Lone Shadow",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CoolImpact",
+            "name": "Fab Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TwoActor",
+            "name": "Double Agent",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SnakeSmack",
+            "name": "Serpent Strike",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BurstAccident",
+            "name": "Splash Squadron",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CrocCommand",
+            "name": "Gator Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DimDated",
+            "name": "Fade Out",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MechDoggo",
+            "name": "Mecha Kitty",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LeapSquad",
+            "name": "Dive Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SoarClock",
+            "name": "Aquaman",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SeaIncreasing",
+            "name": "Ocean Rising",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FearlessMotor",
+            "name": "Intrepid Engines",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GlowingGlory",
+            "name": "Honor Shining",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OldExplorer",
+            "name": "Ancient Voyager",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LiquidHole",
+            "name": "Watery Grave",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Garbo",
+            "name": "Trashy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "EatingCraze",
+            "name": "Feeding Frenzy",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HueCrash",
+            "name": "Loserfruit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OutlawFire",
+            "name": "Renegade Flame",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RoughStreet",
+            "name": "Hard Road",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BurritoDay",
+            "name": "Taco Time",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CasualSize",
+            "name": "Relaxed Fit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GroupAgony",
+            "name": "Team Heartbreak",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DudeGadgets",
+            "name": "Brobotics",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HarshInvaders",
+            "name": "Rough Raiders",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CrazyCowboy",
+            "name": "Wildest West",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DevilIsland",
+            "name": "Demon Beach",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Slam",
+            "name": "Impact",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AreaFlame",
+            "name": "Space Fire",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LadyTreat",
+            "name": "Ms. Whip",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MushroomQueen",
+            "name": "Fungus King",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "TenderMonarch",
+            "name": "Black Manta",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CosmoBunch",
+            "name": "Galaxy Pack",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SillyTeam",
+            "name": "Dummy Brigade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "VacationFable",
+            "name": "Summer Legends",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HeftyUnit",
+            "name": "Tank Squadron",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OceanAttack",
+            "name": "Saltwater Strike",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FNOriginals",
+            "name": "Fortnite Classics",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FishyParadise",
+            "name": "Fishlantis",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OceanLight",
+            "name": "Sea Glow",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "EarthSprint",
+            "name": "Run The World",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FishyBeef",
+            "name": "Surf & Turf",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LlamaWarrior",
+            "name": "Llamercenary",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GekkoFight",
+            "name": "Axolotl Attack!",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RoadSnake",
+            "name": "Street Serpent",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreamMachine",
+            "name": "Island Warrior",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HueDrive",
+            "name": "Colorway",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DarkPunch",
+            "name": "Shadow Strike",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PieFight",
+            "name": "Pizza Pitfighter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SkaterBeast",
+            "name": "Rink Raiders",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ShoalKing",
+            "name": "Reef Royalty",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ForemanSquad",
+            "name": "Constructor Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AwfulAspect",
+            "name": "Darkening",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StrollPeanut",
+            "name": "Doctor Doom",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "JusticeSin",
+            "name": "Thor",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SuspectSpectrum",
+            "name": "Mystique",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MarbleShot",
+            "name": "Iron Man",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GradualVertical",
+            "name": "She-Hulk",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ContactSweet",
+            "name": "Wolverine",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CoalMonarch",
+            "name": "Groot",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ComedyElbow",
+            "name": "Storm",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AngleHeard",
+            "name": "Rocket",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "NativeMultiply",
+            "name": "Silver Surfer",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpiderCrime",
+            "name": "Web of Corruption ",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Endless",
+            "name": "Boundless",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BraveryTime",
+            "name": "Courageous Era",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DarkChaser",
+            "name": "Night Hunter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MetroHub",
+            "name": "City Center",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BlandAbolish",
+            "name": "Rocket League",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BDayJam",
+            "name": "B-Day Blast",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SweetMeaning",
+            "name": "Blade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SquadImpact",
+            "name": "Fleet Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "StreetPosse",
+            "name": "Road Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GraveDestroy",
+            "name": "Crypt Crashers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FurthestEnd",
+            "name": "Ultimate Reckoning",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MajorStaircase",
+            "name": "Daredevil",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Exiled",
+            "name": "Forsaken",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "HighSerpent",
+            "name": "Flying Fang",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MorningSalon",
+            "name": "Ghostbusters",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ScalpExtreme",
+            "name": "Skulltimate",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PumpkinGang",
+            "name": "Carving Crew",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Deceit",
+            "name": "Duplicity",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ClanNew",
+            "name": "Coven Fresh",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CruelEvil",
+            "name": "Vicious Vice",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "PartyLot",
+            "name": "Raveyard",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CruelSafe",
+            "name": "Vicious Vault",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FNM2020",
+            "name": "Fortnitemares 2020",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Beginnings",
+            "name": "Origins",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FinalChuckle",
+            "name": "Last Laugh",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SleepyArmy",
+            "name": "Bedhead Brigade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MoarPower",
+            "name": "PWR",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RhythmElbow",
+            "name": "Ghost Rider",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "QualifiedBow",
+            "name": "Black Widow",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ThinGroup",
+            "name": "Diffuse Force",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "InspirationExceed",
+            "name": "Venom",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Stuffed",
+            "name": "Encrusted",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Cliffhanger",
+            "name": "Heart-Stopper",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CooksDream",
+            "name": "Baker's Nightmare",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CenterSoldier",
+            "name": "Kernel Commando",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ColdWoods",
+            "name": "Frosty Forest",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CookieArmy",
+            "name": "Gingerbread Brigade",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RainyDays",
+            "name": "Snowdays",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FairyTrawl",
+            "name": "Elf-Fish",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GalaxyQueen",
+            "name": "Galaxia",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "Conqueror",
+            "name": "The Vanquisher",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CrazyLung",
+            "name": "The Wildheart",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LabChaser",
+            "name": "Y-Labs Hunter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GhostReprisal",
+            "name": "Spirit of Vengeance",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DinnerThief",
+            "name": "The Breakfast Bandit",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GalaxyCreatureCatcher",
+            "name": "Intergalactic Beast Hunter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ProcessNotebook",
+            "name": "The Mandalorian ",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ReformBike",
+            "name": "Oathbreaker",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "FollowSeek",
+            "name": "Join the Hunt",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CoffinDriver",
+            "name": "Master Chief",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SnowDudes",
+            "name": "Frost Legends",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SparkleCrew",
+            "name": "Twinkle Team",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ChocoSoldier",
+            "name": "Cocoa Commando",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "NewSnow",
+            "name": "Fresh Powder",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DapperCandy",
+            "name": "Dandy Cane",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CoolBreak",
+            "name": "Cold Snap",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "EndAspect",
+            "name": "Edge Factor",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GlowCrew",
+            "name": "Gleam Team",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RubbishMouse",
+            "name": "Survivors in Arms",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AverageDisk",
+            "name": "Taskmaster",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GravelAloof",
+            "name": "Black Panther",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GateUncle",
+            "name": "Captain Marvel",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LeanScale",
+            "name": "Arrow",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LabSave",
+            "name": "Y-Labs Rescue",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "InitialBandits",
+            "name": "Original Outlaws",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "RoadShade",
+            "name": "Street Shadows",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "WarDefeat",
+            "name": "TheGrefg",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ForestTracker",
+            "name": "Jungle Hunter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "EntryCurtain",
+            "name": "Kickoff",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "OverallStake",
+            "name": "Future War",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "CoverGift",
+            "name": "Arashikage Clan",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ThesisCinema",
+            "name": "Drift Tracker",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BeYours",
+            "name": "Be Mine",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GuestFiction",
+            "name": "The Flash",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AnimalClock",
+            "name": "End of Line",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "LightRain",
+            "name": "Sun & Storm",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "BikeCatch",
+            "name": "Street Fighter",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "AcutePanic",
+            "name": "Llegend",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "ToneTrip",
+            "name": "In Space...",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "GoldHand",
+            "name": "Golden Touch",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "SpacePolice",
+            "name": "Galactic Rangers",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "DangerArmy",
+            "name": "Hazard Platoon",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        },
+        {
+            "id": "MentionPremium",
+            "name": "Lazarbeam",
+            "intensity": null,
+            "landing_priority": null,
+            "part_of": null
+        }
+    ]
+}
